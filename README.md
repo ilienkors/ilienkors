@@ -1,1 +1,1 @@
-![gif](./gifs/5UHm.gif)
+![gif](./gifs/codedex-bot-logo.gif)
